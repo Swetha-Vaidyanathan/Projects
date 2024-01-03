@@ -1,10 +1,10 @@
 Overview:
-In this assignment, you will implement and utilize queues to simulate the operation of a bottle factory. 
+In this assignment, I implemented and utilized queues to simulate the operation of a bottle factory. 
 The provided driver class simulates a bottle factory machine that takes in empty bottles and produces filled and capped bottles
 using four queues (production, supply, filling, and capping). Two variants of the queue data structure (linked and circular) 
 and a queue iterator need to be implemented.
 
-Learning Objectives:
+Objectives:
 
 Implement a generic interface to gain more practice.
 Implement a queue data structure and utilize it to solve problems.
