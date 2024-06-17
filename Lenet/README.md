@@ -1,7 +1,3 @@
-Here is a good description for Homework 7 on LeNet for your GitHub repository:
-
----
-
 ### LeNet-5 Scene Recognition Model
 
 This project involves implementing and training a LeNet-5 Convolutional Neural Network (CNN) for scene recognition using the MiniPlaces dataset. The goal is to leverage deep learning techniques to accurately classify scenes from a diverse dataset.
